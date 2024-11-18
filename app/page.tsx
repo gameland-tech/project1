@@ -23,6 +23,7 @@ export default function Home() {
       <h1>19-</h1>
       <h1>20-</h1>
       <h1>21-</h1>
+      <h1>22-</h1>
     </main>
   );
 }
